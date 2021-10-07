@@ -60,3 +60,7 @@ body {
 .custom-control-label::after {
     right: -1.5rem;
 }
+
+.custom-control {
+    padding-right: 1.5rem;
+}
